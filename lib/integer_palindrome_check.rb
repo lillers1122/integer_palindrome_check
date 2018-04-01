@@ -30,6 +30,3 @@ def integers(number)
   end
   return integers
 end
-
-
-puts is_palindrome(0)
